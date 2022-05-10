@@ -1,2 +1,2 @@
 # ds-experiments
-Code for implementing higher-level concepts (regression, classification, etc.) from scratch.
+Code for implementing Machine Learning concepts (regression, classification, etc.) from scratch.
